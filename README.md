@@ -15,6 +15,7 @@ https://github.com/netra00745/-ShadowFox-Data-analyst-Excel-project-/blob/main/I
 https://github.com/netra00745/-ShadowFox-Data-analyst-Excel-project-/blob/main/Screen%20Recording%202026-01-13%20223844.mp4
 ## screenshort 
 <img width="970" height="591" alt="Screenshot 2026-01-13 224348" src="https://github.com/user-attachments/assets/e08e55f6-8745-4bf3-a308-df07a6d8c2bf" /> (excel file clean)
+<img width="1233" height="644" alt="Screenshot 2026-01-13 220733" src="https://github.com/user-attachments/assets/0e654bb3-7752-42a8-ba85-cf23097de21d" /> (Dashboard)
 
 
 visualizations, and interactive filters, allowing users to identify individual strengths, weaknesses, and overall fielding impact. This project demonstrates practical skills in data collection, data cleaning, sports analytics, and data visualization, and highlights the use of analytical insights to support strategic fielding decisions and performance improvement.
